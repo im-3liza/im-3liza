@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Liyana Aliei Web Designer & Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Liana Aliei Web Designer & Developer
 ========================
 
-Hi there, I'm Liyana 👋
+Hi there, I'm Liana 👋
 
 I'm a passionate web designer and developer with hands-on experience in **HTML, CSS, Bootstrap, Bulma, SCSS, and JavaScript**. I also have foundational knowledge in **Python** and **Django**, which helps me approach projects with a full-stack perspective.
 
